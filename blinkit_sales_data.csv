@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,City,Category,Product,Quantity,UnitPrice,TotalAmount,PaymentMode
+ORD1000,2024-01-01,CUST854,Mumbai,Fruits & Vegetables,Apple,3,145,435,Credit Card
+ORD1001,2024-01-02,CUST130,Delhi,Fruits & Vegetables,Onion,1,322,322,Cash on Delivery
+ORD1002,2024-01-03,CUST674,Delhi,Fruits & Vegetables,Banana,2,278,556,Wallet
+ORD1003,2024-01-04,CUST384,Chennai,Dairy & Bakery,Curd,4,132,528,Cash on Delivery
+ORD1004,2024-01-05,CUST320,Mumbai,Fruits & Vegetables,Banana,4,194,776,Debit Card
+ORD1005,2024-01-06,CUST967,Bengaluru,Snacks & Beverages,Chips,1,214,214,UPI
+ORD1006,2024-01-07,CUST570,Kolkata,Snacks & Beverages,Tea,3,433,1299,UPI
+ORD1007,2024-01-08,CUST949,Bengaluru,Personal Care,Face Wash,4,60,240,Wallet
+ORD1008,2024-01-09,CUST777,Delhi,Personal Care,Hair Oil,5,118,590,UPI
+ORD1009,2024-01-10,CUST203,Pune,Dairy & Bakery,Bread,1,457,457,Credit Card
+ORD1010,2024-01-11,CUST479,Mumbai,Household Essentials,Toothpaste,4,345,1380,Debit Card
+ORD1011,2024-01-12,CUST750,Chennai,Snacks & Beverages,Cold Drink,3,379,1137,UPI
+ORD1012,2024-01-13,CUST376,Hyderabad,Dairy & Bakery,Curd,2,103,206,Cash on Delivery
+ORD1013,2024-01-14,CUST941,Mumbai,Personal Care,Body Lotion,3,451,1353,UPI
+ORD1014,2024-01-15,CUST680,Mumbai,Fruits & Vegetables,Tomato,4,157,628,UPI
+ORD1015,2024-01-16,CUST371,Mumbai,Snacks & Beverages,Cold Drink,4,222,888,Cash on Delivery
+ORD1016,2024-01-17,CUST698,Kolkata,Dairy & Bakery,Cheese,5,295,1475,Debit Card
+ORD1017,2024-01-18,CUST621,Mumbai,Household Essentials,Floor Cleaner,4,205,820,Credit Card
+ORD1018,2024-01-19,CUST742,Mumbai,Household Essentials,Detergent,1,460,460,UPI
+ORD1019,2024-01-20,CUST710,Hyderabad,Dairy & Bakery,Butter,5,52,260,Cash on Delivery
+ORD1020,2024-01-21,CUST838,Kolkata,Household Essentials,Floor Cleaner,3,303,909,UPI
+ORD1021,2024-01-22,CUST400,Delhi,Fruits & Vegetables,Onion,3,413,1239,Debit Card
+ORD1022,2024-01-23,CUST880,Chennai,Household Essentials,Soap,4,21,84,Debit Card
+ORD1023,2024-01-24,CUST754,Pune,Dairy & Bakery,Curd,1,465,465,Debit Card
+ORD1024,2024-01-25,CUST265,Pune,Personal Care,Deodorant,2,98,196,Debit Card
+ORD1025,2024-01-26,CUST119,Hyderabad,Personal Care,Deodorant,1,326,326,Debit Card
+ORD1026,2024-01-27,CUST999,Mumbai,Fruits & Vegetables,Tomato,3,142,426,UPI
+ORD1027,2024-01-28,CUST170,Pune,Personal Care,Face Wash,1,394,394,Cash on Delivery
+ORD1028,2024-01-29,CUST269,Chennai,Personal Care,Body Lotion,2,357,714,Cash on Delivery
+ORD1029,2024-01-30,CUST873,Chennai,Snacks & Beverages,Tea,5,236,1180,Credit Card
+ORD1030,2024-01-31,CUST629,Hyderabad,Dairy & Bakery,Bread,4,363,1452,Debit Card
+ORD1031,2024-02-01,CUST121,Bengaluru,Household Essentials,Detergent,2,135,270,UPI
+ORD1032,2024-02-02,CUST172,Delhi,Personal Care,Deodorant,2,321,642,Credit Card
+ORD1033,2024-02-03,CUST438,Pune,Fruits & Vegetables,Banana,1,483,483,UPI
+ORD1034,2024-02-04,CUST652,Mumbai,Fruits & Vegetables,Onion,2,162,324,Cash on Delivery
+ORD1035,2024-02-05,CUST584,Pune,Dairy & Bakery,Curd,5,262,1310,Credit Card
+ORD1036,2024-02-06,CUST533,Bengaluru,Household Essentials,Soap,1,69,69,Cash on Delivery
+ORD1037,2024-02-07,CUST512,Delhi,Household Essentials,Shampoo,1,364,364,UPI
+ORD1038,2024-02-08,CUST559,Chennai,Snacks & Beverages,Chips,2,118,236,Credit Card
+ORD1039,2024-02-09,CUST995,Mumbai,Dairy & Bakery,Butter,2,162,324,Cash on Delivery
+ORD1040,2024-02-10,CUST653,Kolkata,Fruits & Vegetables,Potato,5,70,350,UPI
+ORD1041,2024-02-11,CUST592,Hyderabad,Fruits & Vegetables,Apple,2,105,210,Cash on Delivery
+ORD1042,2024-02-12,CUST499,Delhi,Dairy & Bakery,Butter,1,104,104,Cash on Delivery
+ORD1043,2024-02-13,CUST835,Kolkata,Snacks & Beverages,Biscuits,3,236,708,Wallet
+ORD1044,2024-02-14,CUST693,Delhi,Household Essentials,Soap,2,171,342,Credit Card
+ORD1045,2024-02-15,CUST588,Chennai,Personal Care,Face Wash,3,49,147,UPI
+ORD1046,2024-02-16,CUST971,Delhi,Personal Care,Deodorant,2,49,98,Wallet
+ORD1047,2024-02-17,CUST222,Hyderabad,Dairy & Bakery,Milk,5,54,270,Credit Card
+ORD1048,2024-02-18,CUST183,Chennai,Personal Care,Body Lotion,5,324,1620,UPI
+ORD1049,2024-02-19,CUST309,Bengaluru,Household Essentials,Floor Cleaner,5,287,1435,Debit Card
+ORD1050,2024-02-20,CUST760,Kolkata,Snacks & Beverages,Cold Drink,3,222,666,Credit Card
+ORD1051,2024-02-21,CUST569,Delhi,Snacks & Beverages,Biscuits,3,495,1485,UPI
+ORD1052,2024-02-22,CUST618,Mumbai,Personal Care,Deodorant,1,57,57,Wallet
+ORD1053,2024-02-23,CUST478,Mumbai,Snacks & Beverages,Cold Drink,3,471,1413,UPI
+ORD1054,2024-02-24,CUST409,Kolkata,Snacks & Beverages,Cold Drink,4,446,1784,Wallet
+ORD1055,2024-02-25,CUST779,Bengaluru,Personal Care,Deodorant,1,361,361,Wallet
+ORD1056,2024-02-26,CUST666,Kolkata,Fruits & Vegetables,Banana,3,79,237,UPI
+ORD1057,2024-02-27,CUST451,Kolkata,Dairy & Bakery,Bread,3,329,987,Credit Card
+ORD1058,2024-02-28,CUST152,Pune,Dairy & Bakery,Bread,5,270,1350,Debit Card
+ORD1059,2024-02-29,CUST889,Bengaluru,Fruits & Vegetables,Potato,3,42,126,UPI
+ORD1060,2024-03-01,CUST822,Chennai,Dairy & Bakery,Bread,2,399,798,Cash on Delivery
+ORD1061,2024-03-02,CUST252,Kolkata,Household Essentials,Floor Cleaner,1,77,77,UPI
+ORD1062,2024-03-03,CUST540,Mumbai,Personal Care,Face Wash,3,318,954,Wallet
+ORD1063,2024-03-04,CUST315,Bengaluru,Dairy & Bakery,Milk,3,206,618,UPI
+ORD1064,2024-03-05,CUST516,Pune,Dairy & Bakery,Milk,3,419,1257,Wallet
+ORD1065,2024-03-06,CUST930,Pune,Personal Care,Body Lotion,2,462,924,Credit Card
+ORD1066,2024-03-07,CUST521,Pune,Dairy & Bakery,Butter,1,111,111,Debit Card
+ORD1067,2024-03-08,CUST993,Hyderabad,Dairy & Bakery,Bread,2,423,846,UPI
+ORD1068,2024-03-09,CUST412,Bengaluru,Fruits & Vegetables,Potato,2,122,244,Cash on Delivery
+ORD1069,2024-03-10,CUST436,Hyderabad,Dairy & Bakery,Cheese,1,357,357,Credit Card
+ORD1070,2024-03-11,CUST795,Hyderabad,Snacks & Beverages,Chips,3,199,597,Wallet
+ORD1071,2024-03-12,CUST694,Mumbai,Personal Care,Hair Oil,1,79,79,Debit Card
+ORD1072,2024-03-13,CUST846,Bengaluru,Snacks & Beverages,Chips,1,325,325,Cash on Delivery
+ORD1073,2024-03-14,CUST690,Hyderabad,Snacks & Beverages,Biscuits,5,281,1405,UPI
+ORD1074,2024-03-15,CUST632,Delhi,Dairy & Bakery,Bread,1,382,382,Cash on Delivery
+ORD1075,2024-03-16,CUST438,Kolkata,Personal Care,Body Lotion,3,240,720,UPI
+ORD1076,2024-03-17,CUST416,Chennai,Personal Care,Hair Oil,1,388,388,Debit Card
+ORD1077,2024-03-18,CUST230,Chennai,Household Essentials,Toothpaste,4,376,1504,Debit Card
+ORD1078,2024-03-19,CUST682,Chennai,Dairy & Bakery,Butter,4,366,1464,Credit Card
+ORD1079,2024-03-20,CUST393,Bengaluru,Snacks & Beverages,Biscuits,5,446,2230,UPI
+ORD1080,2024-03-21,CUST552,Hyderabad,Dairy & Bakery,Butter,5,330,1650,Debit Card
+ORD1081,2024-03-22,CUST186,Kolkata,Household Essentials,Soap,5,262,1310,Credit Card
+ORD1082,2024-03-23,CUST869,Pune,Snacks & Beverages,Tea,5,191,955,UPI
+ORD1083,2024-03-24,CUST125,Mumbai,Dairy & Bakery,Bread,2,432,864,Credit Card
+ORD1084,2024-03-25,CUST524,Hyderabad,Fruits & Vegetables,Banana,4,332,1328,UPI
+ORD1085,2024-03-26,CUST251,Mumbai,Personal Care,Body Lotion,4,273,1092,Cash on Delivery
+ORD1086,2024-03-27,CUST812,Pune,Fruits & Vegetables,Apple,4,132,528,Credit Card
+ORD1087,2024-03-28,CUST224,Pune,Personal Care,Toothbrush,1,305,305,Credit Card
+ORD1088,2024-03-29,CUST709,Chennai,Household Essentials,Soap,4,361,1444,Wallet
+ORD1089,2024-03-30,CUST950,Hyderabad,Snacks & Beverages,Biscuits,5,437,2185,Wallet
+ORD1090,2024-03-31,CUST365,Hyderabad,Personal Care,Toothbrush,2,400,800,Cash on Delivery
+ORD1091,2024-04-01,CUST550,Bengaluru,Dairy & Bakery,Bread,5,268,1340,Credit Card
+ORD1092,2024-04-02,CUST653,Bengaluru,Fruits & Vegetables,Tomato,2,159,318,Debit Card
+ORD1093,2024-04-03,CUST256,Kolkata,Fruits & Vegetables,Banana,2,138,276,Cash on Delivery
+ORD1094,2024-04-04,CUST577,Chennai,Dairy & Bakery,Milk,4,228,912,Debit Card
+ORD1095,2024-04-05,CUST888,Hyderabad,Household Essentials,Detergent,2,446,892,Cash on Delivery
+ORD1096,2024-04-06,CUST460,Delhi,Personal Care,Face Wash,5,214,1070,Cash on Delivery
+ORD1097,2024-04-07,CUST717,Pune,Snacks & Beverages,Biscuits,4,295,1180,Wallet
+ORD1098,2024-04-08,CUST129,Hyderabad,Dairy & Bakery,Butter,2,159,318,Cash on Delivery
+ORD1099,2024-04-09,CUST578,Pune,Household Essentials,Toothpaste,4,390,1560,Credit Card
+ORD1100,2024-04-10,CUST677,Chennai,Dairy & Bakery,Curd,5,33,165,Cash on Delivery
+ORD1101,2024-04-11,CUST151,Mumbai,Fruits & Vegetables,Apple,4,89,356,Cash on Delivery
+ORD1102,2024-04-12,CUST445,Bengaluru,Snacks & Beverages,Biscuits,3,128,384,Cash on Delivery
+ORD1103,2024-04-13,CUST119,Hyderabad,Household Essentials,Toothpaste,4,149,596,UPI
+ORD1104,2024-04-14,CUST767,Pune,Personal Care,Face Wash,3,134,402,UPI
+ORD1105,2024-04-15,CUST256,Chennai,Fruits & Vegetables,Apple,2,122,244,UPI
+ORD1106,2024-04-16,CUST323,Chennai,Dairy & Bakery,Cheese,4,362,1448,UPI
+ORD1107,2024-04-17,CUST865,Chennai,Household Essentials,Toothpaste,3,105,315,Wallet
+ORD1108,2024-04-18,CUST419,Delhi,Fruits & Vegetables,Banana,3,75,225,Wallet
+ORD1109,2024-04-19,CUST706,Delhi,Personal Care,Toothbrush,4,386,1544,Credit Card
+ORD1110,2024-04-20,CUST223,Pune,Dairy & Bakery,Milk,3,455,1365,Wallet
+ORD1111,2024-04-21,CUST479,Kolkata,Personal Care,Face Wash,3,292,876,Cash on Delivery
+ORD1112,2024-04-22,CUST601,Pune,Fruits & Vegetables,Onion,3,26,78,Cash on Delivery
+ORD1113,2024-04-23,CUST256,Kolkata,Fruits & Vegetables,Potato,3,345,1035,Cash on Delivery
+ORD1114,2024-04-24,CUST927,Chennai,Household Essentials,Soap,5,353,1765,Debit Card
+ORD1115,2024-04-25,CUST430,Bengaluru,Personal Care,Toothbrush,4,243,972,Wallet
+ORD1116,2024-04-26,CUST868,Mumbai,Dairy & Bakery,Milk,3,471,1413,Cash on Delivery
+ORD1117,2024-04-27,CUST129,Bengaluru,Household Essentials,Floor Cleaner,5,362,1810,Cash on Delivery
+ORD1118,2024-04-28,CUST916,Bengaluru,Household Essentials,Toothpaste,2,269,538,Credit Card
+ORD1119,2024-04-29,CUST382,Kolkata,Snacks & Beverages,Juice,3,470,1410,Wallet
+ORD1120,2024-04-30,CUST837,Mumbai,Personal Care,Face Wash,5,117,585,UPI
+ORD1121,2024-05-01,CUST587,Kolkata,Household Essentials,Shampoo,5,408,2040,Credit Card
+ORD1122,2024-05-02,CUST514,Mumbai,Household Essentials,Shampoo,1,67,67,Debit Card
+ORD1123,2024-05-03,CUST643,Chennai,Dairy & Bakery,Bread,5,208,1040,Cash on Delivery
+ORD1124,2024-05-04,CUST564,Kolkata,Snacks & Beverages,Biscuits,5,189,945,Debit Card
+ORD1125,2024-05-05,CUST297,Kolkata,Snacks & Beverages,Juice,3,138,414,UPI
+ORD1126,2024-05-06,CUST321,Mumbai,Snacks & Beverages,Chips,5,410,2050,Credit Card
+ORD1127,2024-05-07,CUST389,Chennai,Household Essentials,Toothpaste,5,409,2045,Wallet
+ORD1128,2024-05-08,CUST409,Mumbai,Fruits & Vegetables,Banana,3,136,408,Debit Card
+ORD1129,2024-05-09,CUST666,Delhi,Fruits & Vegetables,Onion,2,160,320,UPI
+ORD1130,2024-05-10,CUST391,Chennai,Snacks & Beverages,Cold Drink,4,72,288,UPI
+ORD1131,2024-05-11,CUST358,Delhi,Household Essentials,Shampoo,4,194,776,Credit Card
+ORD1132,2024-05-12,CUST690,Delhi,Household Essentials,Detergent,1,225,225,Cash on Delivery
+ORD1133,2024-05-13,CUST187,Bengaluru,Fruits & Vegetables,Banana,2,435,870,Wallet
+ORD1134,2024-05-14,CUST710,Chennai,Dairy & Bakery,Milk,5,411,2055,Cash on Delivery
+ORD1135,2024-05-15,CUST404,Hyderabad,Personal Care,Body Lotion,5,214,1070,Cash on Delivery
+ORD1136,2024-05-16,CUST724,Delhi,Personal Care,Toothbrush,3,311,933,Wallet
+ORD1137,2024-05-17,CUST345,Mumbai,Fruits & Vegetables,Banana,2,155,310,UPI
+ORD1138,2024-05-18,CUST561,Hyderabad,Dairy & Bakery,Curd,1,100,100,UPI
+ORD1139,2024-05-19,CUST823,Bengaluru,Personal Care,Toothbrush,3,36,108,Credit Card
+ORD1140,2024-05-20,CUST906,Bengaluru,Snacks & Beverages,Biscuits,1,371,371,Credit Card
+ORD1141,2024-05-21,CUST763,Mumbai,Personal Care,Body Lotion,4,78,312,Wallet
+ORD1142,2024-05-22,CUST911,Mumbai,Dairy & Bakery,Bread,2,56,112,UPI
+ORD1143,2024-05-23,CUST227,Hyderabad,Snacks & Beverages,Tea,5,491,2455,Debit Card
+ORD1144,2024-05-24,CUST605,Chennai,Household Essentials,Toothpaste,4,159,636,Wallet
+ORD1145,2024-05-25,CUST430,Kolkata,Household Essentials,Detergent,5,40,200,Cash on Delivery
+ORD1146,2024-05-26,CUST956,Kolkata,Personal Care,Hair Oil,1,66,66,Credit Card
+ORD1147,2024-05-27,CUST141,Chennai,Personal Care,Deodorant,1,411,411,Debit Card
+ORD1148,2024-05-28,CUST285,Bengaluru,Dairy & Bakery,Butter,5,353,1765,Cash on Delivery
+ORD1149,2024-05-29,CUST518,Bengaluru,Personal Care,Toothbrush,4,66,264,Cash on Delivery
+ORD1150,2024-05-30,CUST521,Bengaluru,Snacks & Beverages,Juice,1,459,459,Credit Card
+ORD1151,2024-05-31,CUST565,Delhi,Household Essentials,Toothpaste,4,436,1744,Wallet
+ORD1152,2024-06-01,CUST513,Pune,Fruits & Vegetables,Tomato,3,185,555,UPI
+ORD1153,2024-06-02,CUST292,Delhi,Personal Care,Face Wash,5,256,1280,Cash on Delivery
+ORD1154,2024-06-03,CUST552,Kolkata,Personal Care,Hair Oil,5,407,2035,Cash on Delivery
+ORD1155,2024-06-04,CUST548,Bengaluru,Fruits & Vegetables,Banana,3,301,903,Credit Card
+ORD1156,2024-06-05,CUST345,Pune,Household Essentials,Detergent,1,342,342,Wallet
+ORD1157,2024-06-06,CUST195,Hyderabad,Dairy & Bakery,Bread,5,27,135,Wallet
+ORD1158,2024-06-07,CUST833,Hyderabad,Dairy & Bakery,Milk,4,80,320,Credit Card
+ORD1159,2024-06-08,CUST349,Hyderabad,Snacks & Beverages,Tea,3,232,696,Cash on Delivery
+ORD1160,2024-06-09,CUST620,Chennai,Household Essentials,Floor Cleaner,2,216,432,Credit Card
+ORD1161,2024-06-10,CUST906,Bengaluru,Dairy & Bakery,Milk,3,415,1245,Cash on Delivery
+ORD1162,2024-06-11,CUST701,Pune,Personal Care,Hair Oil,1,164,164,Debit Card
+ORD1163,2024-06-12,CUST453,Hyderabad,Personal Care,Toothbrush,2,248,496,Wallet
+ORD1164,2024-06-13,CUST990,Bengaluru,Snacks & Beverages,Tea,5,213,1065,Cash on Delivery
+ORD1165,2024-06-14,CUST894,Pune,Dairy & Bakery,Cheese,5,216,1080,Credit Card
+ORD1166,2024-06-15,CUST930,Kolkata,Household Essentials,Detergent,3,401,1203,Cash on Delivery
+ORD1167,2024-06-16,CUST614,Mumbai,Household Essentials,Shampoo,2,273,546,UPI
+ORD1168,2024-06-17,CUST638,Delhi,Personal Care,Hair Oil,1,467,467,Cash on Delivery
+ORD1169,2024-06-18,CUST580,Delhi,Household Essentials,Detergent,2,229,458,Credit Card
+ORD1170,2024-06-19,CUST182,Kolkata,Snacks & Beverages,Juice,5,374,1870,Cash on Delivery
+ORD1171,2024-06-20,CUST654,Pune,Snacks & Beverages,Tea,4,182,728,Cash on Delivery
+ORD1172,2024-06-21,CUST864,Mumbai,Fruits & Vegetables,Onion,1,140,140,Debit Card
+ORD1173,2024-06-22,CUST270,Hyderabad,Fruits & Vegetables,Potato,1,409,409,UPI
+ORD1174,2024-06-23,CUST467,Bengaluru,Snacks & Beverages,Chips,1,186,186,UPI
+ORD1175,2024-06-24,CUST679,Hyderabad,Snacks & Beverages,Biscuits,2,145,290,Wallet
+ORD1176,2024-06-25,CUST491,Pune,Dairy & Bakery,Cheese,2,60,120,Wallet
+ORD1177,2024-06-26,CUST337,Mumbai,Personal Care,Body Lotion,4,487,1948,Wallet
+ORD1178,2024-06-27,CUST576,Pune,Household Essentials,Toothpaste,4,150,600,UPI
+ORD1179,2024-06-28,CUST701,Bengaluru,Snacks & Beverages,Tea,2,57,114,Cash on Delivery
+ORD1180,2024-06-29,CUST493,Mumbai,Snacks & Beverages,Biscuits,3,253,759,Debit Card
+ORD1181,2024-06-30,CUST688,Bengaluru,Household Essentials,Detergent,2,215,430,Wallet
+ORD1182,2024-07-01,CUST108,Bengaluru,Snacks & Beverages,Juice,1,444,444,Cash on Delivery
+ORD1183,2024-07-02,CUST393,Pune,Personal Care,Face Wash,5,401,2005,Cash on Delivery
+ORD1184,2024-07-03,CUST356,Chennai,Dairy & Bakery,Curd,3,132,396,Credit Card
+ORD1185,2024-07-04,CUST693,Delhi,Dairy & Bakery,Milk,1,178,178,Cash on Delivery
+ORD1186,2024-07-05,CUST865,Bengaluru,Snacks & Beverages,Cold Drink,1,485,485,Debit Card
+ORD1187,2024-07-06,CUST643,Bengaluru,Household Essentials,Soap,2,87,174,Wallet
+ORD1188,2024-07-07,CUST402,Pune,Personal Care,Hair Oil,2,151,302,Cash on Delivery
+ORD1189,2024-07-08,CUST331,Pune,Snacks & Beverages,Chips,4,58,232,Credit Card
+ORD1190,2024-07-09,CUST370,Delhi,Household Essentials,Floor Cleaner,3,66,198,Cash on Delivery
+ORD1191,2024-07-10,CUST490,Chennai,Personal Care,Face Wash,4,208,832,Debit Card
+ORD1192,2024-07-11,CUST674,Chennai,Snacks & Beverages,Chips,2,261,522,UPI
+ORD1193,2024-07-12,CUST943,Kolkata,Snacks & Beverages,Tea,2,351,702,UPI
+ORD1194,2024-07-13,CUST138,Delhi,Household Essentials,Toothpaste,4,79,316,Credit Card
+ORD1195,2024-07-14,CUST238,Chennai,Snacks & Beverages,Biscuits,1,69,69,Credit Card
+ORD1196,2024-07-15,CUST701,Hyderabad,Household Essentials,Shampoo,3,363,1089,Wallet
+ORD1197,2024-07-16,CUST517,Chennai,Dairy & Bakery,Butter,1,446,446,Cash on Delivery
+ORD1198,2024-07-17,CUST341,Hyderabad,Snacks & Beverages,Chips,3,131,393,Cash on Delivery
+ORD1199,2024-07-18,CUST507,Delhi,Snacks & Beverages,Chips,3,298,894,Debit Card
+ORD1200,2024-07-19,CUST778,Delhi,Snacks & Beverages,Cold Drink,1,454,454,Cash on Delivery
+ORD1201,2024-07-20,CUST228,Mumbai,Dairy & Bakery,Curd,1,45,45,Debit Card
+ORD1202,2024-07-21,CUST700,Mumbai,Personal Care,Body Lotion,1,444,444,Wallet
+ORD1203,2024-07-22,CUST710,Pune,Dairy & Bakery,Cheese,3,416,1248,Credit Card
+ORD1204,2024-07-23,CUST917,Bengaluru,Fruits & Vegetables,Tomato,2,86,172,Wallet
+ORD1205,2024-07-24,CUST908,Bengaluru,Dairy & Bakery,Milk,1,87,87,UPI
+ORD1206,2024-07-25,CUST153,Bengaluru,Dairy & Bakery,Curd,3,28,84,Credit Card
+ORD1207,2024-07-26,CUST559,Hyderabad,Dairy & Bakery,Butter,5,78,390,UPI
+ORD1208,2024-07-27,CUST326,Chennai,Snacks & Beverages,Tea,5,75,375,Cash on Delivery
+ORD1209,2024-07-28,CUST131,Kolkata,Personal Care,Face Wash,5,174,870,Cash on Delivery
+ORD1210,2024-07-29,CUST829,Hyderabad,Fruits & Vegetables,Potato,4,238,952,UPI
+ORD1211,2024-07-30,CUST167,Mumbai,Household Essentials,Detergent,1,184,184,Wallet
+ORD1212,2024-07-31,CUST829,Chennai,Dairy & Bakery,Bread,5,344,1720,Wallet
+ORD1213,2024-08-01,CUST617,Hyderabad,Snacks & Beverages,Biscuits,5,291,1455,Debit Card
+ORD1214,2024-08-02,CUST770,Pune,Personal Care,Toothbrush,1,426,426,UPI
+ORD1215,2024-08-03,CUST447,Hyderabad,Personal Care,Body Lotion,4,251,1004,Credit Card
+ORD1216,2024-08-04,CUST537,Bengaluru,Household Essentials,Shampoo,4,393,1572,UPI
+ORD1217,2024-08-05,CUST193,Delhi,Snacks & Beverages,Juice,3,98,294,Cash on Delivery
+ORD1218,2024-08-06,CUST233,Pune,Fruits & Vegetables,Apple,4,69,276,Debit Card
+ORD1219,2024-08-07,CUST786,Bengaluru,Personal Care,Face Wash,5,307,1535,Wallet
+ORD1220,2024-08-08,CUST838,Pune,Fruits & Vegetables,Potato,3,467,1401,Cash on Delivery
+ORD1221,2024-08-09,CUST691,Delhi,Fruits & Vegetables,Tomato,5,179,895,Debit Card
+ORD1222,2024-08-10,CUST967,Mumbai,Personal Care,Body Lotion,2,356,712,Cash on Delivery
+ORD1223,2024-08-11,CUST385,Pune,Fruits & Vegetables,Tomato,5,208,1040,UPI
+ORD1224,2024-08-12,CUST938,Pune,Personal Care,Body Lotion,4,452,1808,Wallet
+ORD1225,2024-08-13,CUST949,Kolkata,Personal Care,Deodorant,5,33,165,Wallet
+ORD1226,2024-08-14,CUST459,Bengaluru,Snacks & Beverages,Chips,2,159,318,Debit Card
+ORD1227,2024-08-15,CUST245,Delhi,Fruits & Vegetables,Banana,2,309,618,Cash on Delivery
+ORD1228,2024-08-16,CUST564,Hyderabad,Fruits & Vegetables,Apple,5,130,650,Cash on Delivery
+ORD1229,2024-08-17,CUST681,Pune,Snacks & Beverages,Cold Drink,3,179,537,Debit Card
+ORD1230,2024-08-18,CUST732,Pune,Personal Care,Face Wash,1,99,99,Credit Card
+ORD1231,2024-08-19,CUST721,Hyderabad,Fruits & Vegetables,Apple,3,246,738,Cash on Delivery
+ORD1232,2024-08-20,CUST453,Delhi,Household Essentials,Shampoo,3,130,390,Wallet
+ORD1233,2024-08-21,CUST639,Hyderabad,Household Essentials,Detergent,3,367,1101,Wallet
+ORD1234,2024-08-22,CUST107,Delhi,Snacks & Beverages,Chips,2,222,444,Wallet
+ORD1235,2024-08-23,CUST361,Pune,Dairy & Bakery,Bread,2,412,824,Credit Card
+ORD1236,2024-08-24,CUST540,Kolkata,Snacks & Beverages,Juice,1,23,23,Cash on Delivery
+ORD1237,2024-08-25,CUST672,Chennai,Dairy & Bakery,Cheese,4,292,1168,Credit Card
+ORD1238,2024-08-26,CUST119,Hyderabad,Snacks & Beverages,Chips,4,461,1844,UPI
+ORD1239,2024-08-27,CUST514,Chennai,Household Essentials,Detergent,3,314,942,Cash on Delivery
+ORD1240,2024-08-28,CUST275,Bengaluru,Household Essentials,Toothpaste,1,227,227,UPI
+ORD1241,2024-08-29,CUST208,Pune,Personal Care,Toothbrush,3,65,195,Cash on Delivery
+ORD1242,2024-08-30,CUST505,Delhi,Dairy & Bakery,Butter,5,225,1125,Wallet
+ORD1243,2024-08-31,CUST622,Delhi,Snacks & Beverages,Juice,2,190,380,Credit Card
+ORD1244,2024-09-01,CUST844,Bengaluru,Fruits & Vegetables,Onion,5,119,595,Debit Card
+ORD1245,2024-09-02,CUST277,Mumbai,Dairy & Bakery,Cheese,1,94,94,Debit Card
+ORD1246,2024-09-03,CUST872,Hyderabad,Personal Care,Body Lotion,1,110,110,Cash on Delivery
+ORD1247,2024-09-04,CUST750,Kolkata,Personal Care,Deodorant,4,368,1472,Wallet
+ORD1248,2024-09-05,CUST580,Delhi,Personal Care,Hair Oil,3,97,291,Cash on Delivery
+ORD1249,2024-09-06,CUST619,Bengaluru,Household Essentials,Toothpaste,3,322,966,UPI
+ORD1250,2024-09-07,CUST477,Delhi,Fruits & Vegetables,Tomato,4,251,1004,UPI
+ORD1251,2024-09-08,CUST493,Chennai,Snacks & Beverages,Chips,1,334,334,Wallet
+ORD1252,2024-09-09,CUST929,Hyderabad,Household Essentials,Floor Cleaner,5,425,2125,UPI
+ORD1253,2024-09-10,CUST254,Chennai,Personal Care,Body Lotion,3,329,987,Cash on Delivery
+ORD1254,2024-09-11,CUST186,Kolkata,Fruits & Vegetables,Potato,1,435,435,Debit Card
+ORD1255,2024-09-12,CUST636,Hyderabad,Personal Care,Body Lotion,1,146,146,Cash on Delivery
+ORD1256,2024-09-13,CUST496,Bengaluru,Personal Care,Deodorant,2,206,412,Debit Card
+ORD1257,2024-09-14,CUST437,Delhi,Household Essentials,Toothpaste,5,46,230,Debit Card
+ORD1258,2024-09-15,CUST972,Kolkata,Fruits & Vegetables,Onion,4,165,660,Debit Card
+ORD1259,2024-09-16,CUST244,Kolkata,Personal Care,Body Lotion,3,61,183,Wallet
+ORD1260,2024-09-17,CUST186,Kolkata,Snacks & Beverages,Juice,4,86,344,Wallet
+ORD1261,2024-09-18,CUST230,Pune,Snacks & Beverages,Tea,4,349,1396,Debit Card
+ORD1262,2024-09-19,CUST471,Delhi,Personal Care,Face Wash,4,280,1120,Debit Card
+ORD1263,2024-09-20,CUST331,Mumbai,Snacks & Beverages,Cold Drink,2,194,388,Cash on Delivery
+ORD1264,2024-09-21,CUST889,Chennai,Dairy & Bakery,Cheese,1,171,171,UPI
+ORD1265,2024-09-22,CUST732,Pune,Personal Care,Deodorant,1,358,358,Debit Card
+ORD1266,2024-09-23,CUST951,Mumbai,Dairy & Bakery,Curd,4,98,392,Credit Card
+ORD1267,2024-09-24,CUST792,Bengaluru,Personal Care,Body Lotion,4,42,168,Cash on Delivery
+ORD1268,2024-09-25,CUST646,Mumbai,Dairy & Bakery,Butter,5,165,825,Cash on Delivery
+ORD1269,2024-09-26,CUST794,Bengaluru,Dairy & Bakery,Bread,4,482,1928,Credit Card
+ORD1270,2024-09-27,CUST491,Pune,Personal Care,Toothbrush,4,413,1652,Debit Card
+ORD1271,2024-09-28,CUST719,Pune,Personal Care,Deodorant,4,102,408,Credit Card
+ORD1272,2024-09-29,CUST480,Pune,Dairy & Bakery,Bread,1,348,348,Cash on Delivery
+ORD1273,2024-09-30,CUST185,Bengaluru,Personal Care,Face Wash,5,455,2275,UPI
+ORD1274,2024-10-01,CUST950,Mumbai,Dairy & Bakery,Bread,4,483,1932,Wallet
+ORD1275,2024-10-02,CUST127,Bengaluru,Household Essentials,Detergent,2,438,876,Cash on Delivery
+ORD1276,2024-10-03,CUST495,Mumbai,Household Essentials,Detergent,4,277,1108,Debit Card
+ORD1277,2024-10-04,CUST959,Delhi,Fruits & Vegetables,Tomato,2,34,68,Debit Card
+ORD1278,2024-10-05,CUST583,Pune,Snacks & Beverages,Cold Drink,2,39,78,Debit Card
+ORD1279,2024-10-06,CUST119,Delhi,Dairy & Bakery,Butter,4,335,1340,UPI
+ORD1280,2024-10-07,CUST533,Chennai,Snacks & Beverages,Cold Drink,2,300,600,Wallet
+ORD1281,2024-10-08,CUST344,Delhi,Fruits & Vegetables,Tomato,2,174,348,UPI
+ORD1282,2024-10-09,CUST611,Pune,Household Essentials,Floor Cleaner,4,52,208,UPI
+ORD1283,2024-10-10,CUST347,Chennai,Personal Care,Deodorant,1,343,343,Wallet
+ORD1284,2024-10-11,CUST346,Bengaluru,Dairy & Bakery,Bread,4,20,80,Wallet
+ORD1285,2024-10-12,CUST469,Chennai,Personal Care,Toothbrush,2,360,720,UPI
+ORD1286,2024-10-13,CUST120,Chennai,Fruits & Vegetables,Onion,5,279,1395,Wallet
+ORD1287,2024-10-14,CUST359,Bengaluru,Household Essentials,Shampoo,1,345,345,Cash on Delivery
+ORD1288,2024-10-15,CUST772,Kolkata,Fruits & Vegetables,Tomato,1,196,196,Credit Card
+ORD1289,2024-10-16,CUST659,Bengaluru,Fruits & Vegetables,Onion,3,88,264,UPI
+ORD1290,2024-10-17,CUST286,Kolkata,Snacks & Beverages,Cold Drink,4,376,1504,Cash on Delivery
+ORD1291,2024-10-18,CUST144,Mumbai,Dairy & Bakery,Milk,4,38,152,Debit Card
+ORD1292,2024-10-19,CUST507,Chennai,Dairy & Bakery,Milk,3,497,1491,Debit Card
+ORD1293,2024-10-20,CUST465,Bengaluru,Personal Care,Toothbrush,3,38,114,Credit Card
+ORD1294,2024-10-21,CUST509,Hyderabad,Fruits & Vegetables,Tomato,3,83,249,Debit Card
+ORD1295,2024-10-22,CUST609,Kolkata,Household Essentials,Shampoo,3,115,345,Cash on Delivery
+ORD1296,2024-10-23,CUST534,Kolkata,Snacks & Beverages,Tea,3,430,1290,UPI
+ORD1297,2024-10-24,CUST400,Chennai,Fruits & Vegetables,Potato,5,441,2205,Credit Card
+ORD1298,2024-10-25,CUST556,Bengaluru,Snacks & Beverages,Chips,1,187,187,Debit Card
+ORD1299,2024-10-26,CUST557,Bengaluru,Personal Care,Toothbrush,2,373,746,Cash on Delivery
+ORD1300,2024-10-27,CUST910,Kolkata,Fruits & Vegetables,Tomato,5,242,1210,Debit Card
+ORD1301,2024-10-28,CUST867,Pune,Fruits & Vegetables,Apple,4,206,824,Wallet
+ORD1302,2024-10-29,CUST900,Kolkata,Dairy & Bakery,Milk,2,454,908,Wallet
+ORD1303,2024-10-30,CUST760,Pune,Household Essentials,Detergent,2,54,108,Credit Card
+ORD1304,2024-10-31,CUST257,Chennai,Snacks & Beverages,Juice,4,310,1240,UPI
+ORD1305,2024-11-01,CUST240,Chennai,Household Essentials,Toothpaste,3,247,741,UPI
+ORD1306,2024-11-02,CUST216,Mumbai,Personal Care,Hair Oil,4,180,720,Debit Card
+ORD1307,2024-11-03,CUST220,Chennai,Fruits & Vegetables,Banana,4,285,1140,Cash on Delivery
+ORD1308,2024-11-04,CUST810,Bengaluru,Snacks & Beverages,Juice,4,129,516,Wallet
+ORD1309,2024-11-05,CUST276,Hyderabad,Household Essentials,Soap,1,89,89,UPI
+ORD1310,2024-11-06,CUST166,Kolkata,Household Essentials,Detergent,3,361,1083,Debit Card
+ORD1311,2024-11-07,CUST261,Pune,Personal Care,Deodorant,3,476,1428,Debit Card
+ORD1312,2024-11-08,CUST911,Mumbai,Dairy & Bakery,Bread,5,134,670,UPI
+ORD1313,2024-11-09,CUST686,Chennai,Dairy & Bakery,Cheese,4,33,132,Debit Card
+ORD1314,2024-11-10,CUST167,Delhi,Snacks & Beverages,Biscuits,5,86,430,Wallet
+ORD1315,2024-11-11,CUST519,Pune,Snacks & Beverages,Biscuits,4,289,1156,Cash on Delivery
+ORD1316,2024-11-12,CUST577,Hyderabad,Personal Care,Face Wash,2,182,364,UPI
+ORD1317,2024-11-13,CUST701,Kolkata,Personal Care,Hair Oil,2,469,938,Wallet
+ORD1318,2024-11-14,CUST227,Pune,Dairy & Bakery,Cheese,4,277,1108,UPI
+ORD1319,2024-11-15,CUST826,Bengaluru,Personal Care,Body Lotion,3,104,312,Credit Card
+ORD1320,2024-11-16,CUST180,Pune,Dairy & Bakery,Bread,5,478,2390,Debit Card
+ORD1321,2024-11-17,CUST410,Kolkata,Snacks & Beverages,Cold Drink,5,160,800,Credit Card
+ORD1322,2024-11-18,CUST694,Chennai,Personal Care,Deodorant,1,277,277,Credit Card
+ORD1323,2024-11-19,CUST962,Bengaluru,Dairy & Bakery,Cheese,5,388,1940,Wallet
+ORD1324,2024-11-20,CUST889,Kolkata,Personal Care,Face Wash,1,61,61,UPI
+ORD1325,2024-11-21,CUST732,Hyderabad,Personal Care,Hair Oil,2,412,824,Wallet
+ORD1326,2024-11-22,CUST350,Hyderabad,Fruits & Vegetables,Potato,5,168,840,Debit Card
+ORD1327,2024-11-23,CUST550,Mumbai,Household Essentials,Toothpaste,4,57,228,UPI
+ORD1328,2024-11-24,CUST247,Chennai,Household Essentials,Shampoo,4,124,496,Debit Card
+ORD1329,2024-11-25,CUST479,Pune,Snacks & Beverages,Juice,3,224,672,Credit Card
+ORD1330,2024-11-26,CUST225,Hyderabad,Personal Care,Deodorant,1,183,183,Credit Card
+ORD1331,2024-11-27,CUST397,Delhi,Snacks & Beverages,Biscuits,2,92,184,UPI
+ORD1332,2024-11-28,CUST435,Pune,Household Essentials,Floor Cleaner,4,147,588,Credit Card
+ORD1333,2024-11-29,CUST627,Hyderabad,Personal Care,Hair Oil,2,410,820,Credit Card
+ORD1334,2024-11-30,CUST502,Delhi,Household Essentials,Shampoo,3,274,822,UPI
+ORD1335,2024-12-01,CUST149,Bengaluru,Personal Care,Toothbrush,2,130,260,Wallet
+ORD1336,2024-12-02,CUST649,Bengaluru,Fruits & Vegetables,Tomato,4,325,1300,Cash on Delivery
+ORD1337,2024-12-03,CUST474,Kolkata,Fruits & Vegetables,Apple,4,88,352,Debit Card
+ORD1338,2024-12-04,CUST675,Chennai,Household Essentials,Toothpaste,1,225,225,UPI
+ORD1339,2024-12-05,CUST616,Hyderabad,Dairy & Bakery,Bread,5,167,835,UPI
+ORD1340,2024-12-06,CUST725,Kolkata,Household Essentials,Floor Cleaner,3,442,1326,Wallet
+ORD1341,2024-12-07,CUST447,Pune,Fruits & Vegetables,Banana,1,221,221,Debit Card
+ORD1342,2024-12-08,CUST511,Chennai,Personal Care,Hair Oil,2,121,242,Wallet
+ORD1343,2024-12-09,CUST441,Kolkata,Personal Care,Face Wash,1,39,39,Credit Card
+ORD1344,2024-12-10,CUST243,Chennai,Household Essentials,Floor Cleaner,4,96,384,Wallet
+ORD1345,2024-12-11,CUST857,Chennai,Snacks & Beverages,Tea,3,103,309,Cash on Delivery
+ORD1346,2024-12-12,CUST601,Chennai,Snacks & Beverages,Tea,3,279,837,Wallet
+ORD1347,2024-12-13,CUST439,Bengaluru,Personal Care,Hair Oil,4,437,1748,UPI
+ORD1348,2024-12-14,CUST585,Chennai,Fruits & Vegetables,Potato,5,177,885,UPI
+ORD1349,2024-12-15,CUST591,Chennai,Snacks & Beverages,Tea,5,136,680,UPI
+ORD1350,2024-12-16,CUST941,Mumbai,Dairy & Bakery,Curd,5,416,2080,Cash on Delivery
+ORD1351,2024-12-17,CUST119,Mumbai,Dairy & Bakery,Milk,5,378,1890,UPI
+ORD1352,2024-12-18,CUST308,Kolkata,Household Essentials,Toothpaste,4,97,388,Cash on Delivery
+ORD1353,2024-12-19,CUST968,Pune,Household Essentials,Floor Cleaner,5,491,2455,Cash on Delivery
+ORD1354,2024-12-20,CUST778,Bengaluru,Fruits & Vegetables,Banana,5,126,630,Wallet
+ORD1355,2024-12-21,CUST645,Hyderabad,Household Essentials,Floor Cleaner,4,180,720,Credit Card
+ORD1356,2024-12-22,CUST595,Chennai,Snacks & Beverages,Tea,3,366,1098,Debit Card
+ORD1357,2024-12-23,CUST404,Mumbai,Dairy & Bakery,Cheese,3,305,915,Debit Card
+ORD1358,2024-12-24,CUST673,Bengaluru,Snacks & Beverages,Cold Drink,4,182,728,Cash on Delivery
+ORD1359,2024-12-25,CUST504,Hyderabad,Snacks & Beverages,Juice,1,313,313,Wallet
+ORD1360,2024-12-26,CUST180,Kolkata,Snacks & Beverages,Cold Drink,3,41,123,Debit Card
+ORD1361,2024-12-27,CUST306,Mumbai,Snacks & Beverages,Biscuits,3,402,1206,Cash on Delivery
+ORD1362,2024-12-28,CUST211,Mumbai,Personal Care,Hair Oil,5,376,1880,Debit Card
+ORD1363,2024-12-29,CUST643,Kolkata,Personal Care,Deodorant,2,144,288,UPI
+ORD1364,2024-12-30,CUST834,Bengaluru,Dairy & Bakery,Cheese,1,71,71,Cash on Delivery
+ORD1365,2024-12-31,CUST516,Mumbai,Household Essentials,Detergent,2,22,44,Wallet
+ORD1366,2025-01-01,CUST392,Bengaluru,Household Essentials,Shampoo,2,407,814,Debit Card
+ORD1367,2025-01-02,CUST840,Kolkata,Fruits & Vegetables,Apple,5,138,690,Wallet
+ORD1368,2025-01-03,CUST956,Delhi,Fruits & Vegetables,Banana,4,471,1884,Credit Card
+ORD1369,2025-01-04,CUST109,Delhi,Household Essentials,Shampoo,2,499,998,Debit Card
+ORD1370,2025-01-05,CUST565,Bengaluru,Snacks & Beverages,Tea,5,74,370,Debit Card
+ORD1371,2025-01-06,CUST616,Pune,Personal Care,Deodorant,4,475,1900,Credit Card
+ORD1372,2025-01-07,CUST266,Bengaluru,Household Essentials,Toothpaste,2,434,868,UPI
+ORD1373,2025-01-08,CUST402,Pune,Household Essentials,Toothpaste,2,27,54,Debit Card
+ORD1374,2025-01-09,CUST537,Pune,Personal Care,Body Lotion,2,332,664,Cash on Delivery
+ORD1375,2025-01-10,CUST243,Mumbai,Personal Care,Hair Oil,1,225,225,UPI
+ORD1376,2025-01-11,CUST341,Hyderabad,Household Essentials,Toothpaste,2,23,46,Debit Card
+ORD1377,2025-01-12,CUST686,Kolkata,Household Essentials,Toothpaste,3,174,522,Wallet
+ORD1378,2025-01-13,CUST783,Delhi,Fruits & Vegetables,Tomato,3,374,1122,Credit Card
+ORD1379,2025-01-14,CUST614,Kolkata,Fruits & Vegetables,Potato,3,101,303,Cash on Delivery
+ORD1380,2025-01-15,CUST324,Mumbai,Snacks & Beverages,Chips,3,208,624,Wallet
+ORD1381,2025-01-16,CUST525,Bengaluru,Dairy & Bakery,Butter,2,252,504,Wallet
+ORD1382,2025-01-17,CUST353,Pune,Personal Care,Toothbrush,5,430,2150,Credit Card
+ORD1383,2025-01-18,CUST470,Kolkata,Personal Care,Face Wash,5,248,1240,Wallet
+ORD1384,2025-01-19,CUST307,Chennai,Fruits & Vegetables,Onion,1,51,51,Wallet
+ORD1385,2025-01-20,CUST632,Pune,Personal Care,Deodorant,2,104,208,Debit Card
+ORD1386,2025-01-21,CUST193,Hyderabad,Household Essentials,Detergent,2,387,774,Wallet
+ORD1387,2025-01-22,CUST525,Chennai,Personal Care,Toothbrush,1,252,252,Credit Card
+ORD1388,2025-01-23,CUST926,Kolkata,Household Essentials,Floor Cleaner,1,306,306,Cash on Delivery
+ORD1389,2025-01-24,CUST323,Kolkata,Snacks & Beverages,Chips,4,150,600,UPI
+ORD1390,2025-01-25,CUST165,Kolkata,Personal Care,Face Wash,1,236,236,Debit Card
+ORD1391,2025-01-26,CUST393,Delhi,Personal Care,Face Wash,1,498,498,Cash on Delivery
+ORD1392,2025-01-27,CUST491,Bengaluru,Household Essentials,Soap,2,412,824,Cash on Delivery
+ORD1393,2025-01-28,CUST769,Mumbai,Household Essentials,Shampoo,4,61,244,Wallet
+ORD1394,2025-01-29,CUST230,Chennai,Snacks & Beverages,Chips,2,295,590,Cash on Delivery
+ORD1395,2025-01-30,CUST836,Kolkata,Dairy & Bakery,Milk,1,172,172,Cash on Delivery
+ORD1396,2025-01-31,CUST571,Mumbai,Personal Care,Toothbrush,5,214,1070,Credit Card
+ORD1397,2025-02-01,CUST928,Delhi,Snacks & Beverages,Cold Drink,3,116,348,UPI
+ORD1398,2025-02-02,CUST203,Delhi,Household Essentials,Floor Cleaner,1,143,143,Credit Card
+ORD1399,2025-02-03,CUST858,Mumbai,Personal Care,Face Wash,4,326,1304,UPI
+ORD1400,2025-02-04,CUST872,Mumbai,Fruits & Vegetables,Potato,4,139,556,Wallet
+ORD1401,2025-02-05,CUST849,Pune,Fruits & Vegetables,Banana,5,168,840,Credit Card
+ORD1402,2025-02-06,CUST409,Mumbai,Personal Care,Hair Oil,5,326,1630,Debit Card
+ORD1403,2025-02-07,CUST162,Bengaluru,Dairy & Bakery,Curd,2,231,462,Debit Card
+ORD1404,2025-02-08,CUST607,Chennai,Personal Care,Deodorant,2,340,680,Cash on Delivery
+ORD1405,2025-02-09,CUST813,Bengaluru,Fruits & Vegetables,Tomato,4,422,1688,Wallet
+ORD1406,2025-02-10,CUST872,Mumbai,Household Essentials,Shampoo,2,173,346,Cash on Delivery
+ORD1407,2025-02-11,CUST978,Bengaluru,Personal Care,Toothbrush,2,454,908,Credit Card
+ORD1408,2025-02-12,CUST670,Hyderabad,Dairy & Bakery,Butter,1,307,307,Cash on Delivery
+ORD1409,2025-02-13,CUST438,Mumbai,Personal Care,Body Lotion,4,144,576,Debit Card
+ORD1410,2025-02-14,CUST949,Kolkata,Fruits & Vegetables,Potato,3,67,201,Wallet
+ORD1411,2025-02-15,CUST140,Chennai,Dairy & Bakery,Milk,3,213,639,Wallet
+ORD1412,2025-02-16,CUST590,Mumbai,Fruits & Vegetables,Banana,5,390,1950,Wallet
+ORD1413,2025-02-17,CUST294,Mumbai,Dairy & Bakery,Bread,3,485,1455,UPI
+ORD1414,2025-02-18,CUST309,Kolkata,Fruits & Vegetables,Potato,2,376,752,Wallet
+ORD1415,2025-02-19,CUST577,Hyderabad,Household Essentials,Soap,5,184,920,Debit Card
+ORD1416,2025-02-20,CUST609,Chennai,Personal Care,Hair Oil,3,153,459,Debit Card
+ORD1417,2025-02-21,CUST479,Mumbai,Household Essentials,Detergent,4,409,1636,Debit Card
+ORD1418,2025-02-22,CUST249,Kolkata,Snacks & Beverages,Biscuits,1,308,308,Credit Card
+ORD1419,2025-02-23,CUST837,Chennai,Fruits & Vegetables,Tomato,5,498,2490,Wallet
+ORD1420,2025-02-24,CUST488,Mumbai,Household Essentials,Toothpaste,2,120,240,Debit Card
+ORD1421,2025-02-25,CUST881,Bengaluru,Personal Care,Body Lotion,4,301,1204,Debit Card
+ORD1422,2025-02-26,CUST243,Mumbai,Household Essentials,Shampoo,4,106,424,Debit Card
+ORD1423,2025-02-27,CUST160,Kolkata,Personal Care,Toothbrush,2,489,978,Wallet
+ORD1424,2025-02-28,CUST106,Pune,Personal Care,Face Wash,1,438,438,UPI
+ORD1425,2025-03-01,CUST323,Delhi,Household Essentials,Soap,2,54,108,Credit Card
+ORD1426,2025-03-02,CUST782,Kolkata,Personal Care,Toothbrush,3,50,150,Wallet
+ORD1427,2025-03-03,CUST664,Chennai,Personal Care,Toothbrush,4,28,112,UPI
+ORD1428,2025-03-04,CUST393,Chennai,Household Essentials,Detergent,1,291,291,Debit Card
+ORD1429,2025-03-05,CUST198,Delhi,Fruits & Vegetables,Onion,4,432,1728,Credit Card
+ORD1430,2025-03-06,CUST358,Chennai,Personal Care,Body Lotion,2,118,236,Wallet
+ORD1431,2025-03-07,CUST570,Hyderabad,Snacks & Beverages,Juice,4,60,240,Debit Card
+ORD1432,2025-03-08,CUST978,Kolkata,Personal Care,Body Lotion,2,173,346,UPI
+ORD1433,2025-03-09,CUST587,Chennai,Fruits & Vegetables,Apple,4,214,856,Cash on Delivery
+ORD1434,2025-03-10,CUST544,Pune,Fruits & Vegetables,Apple,2,62,124,Cash on Delivery
+ORD1435,2025-03-11,CUST335,Delhi,Snacks & Beverages,Tea,1,478,478,Wallet
+ORD1436,2025-03-12,CUST800,Delhi,Dairy & Bakery,Curd,4,158,632,UPI
+ORD1437,2025-03-13,CUST970,Mumbai,Snacks & Beverages,Tea,5,356,1780,UPI
+ORD1438,2025-03-14,CUST940,Pune,Snacks & Beverages,Chips,2,320,640,Credit Card
+ORD1439,2025-03-15,CUST680,Mumbai,Household Essentials,Detergent,3,103,309,Wallet
+ORD1440,2025-03-16,CUST805,Pune,Household Essentials,Floor Cleaner,3,216,648,Credit Card
+ORD1441,2025-03-17,CUST337,Hyderabad,Fruits & Vegetables,Onion,3,47,141,UPI
+ORD1442,2025-03-18,CUST506,Chennai,Fruits & Vegetables,Tomato,5,413,2065,Wallet
+ORD1443,2025-03-19,CUST333,Hyderabad,Snacks & Beverages,Chips,3,421,1263,Cash on Delivery
+ORD1444,2025-03-20,CUST699,Kolkata,Snacks & Beverages,Tea,4,241,964,Credit Card
+ORD1445,2025-03-21,CUST175,Kolkata,Household Essentials,Detergent,5,171,855,Credit Card
+ORD1446,2025-03-22,CUST498,Kolkata,Fruits & Vegetables,Tomato,2,214,428,Credit Card
+ORD1447,2025-03-23,CUST555,Bengaluru,Snacks & Beverages,Juice,1,66,66,UPI
+ORD1448,2025-03-24,CUST541,Mumbai,Snacks & Beverages,Juice,1,87,87,UPI
+ORD1449,2025-03-25,CUST126,Delhi,Household Essentials,Floor Cleaner,5,282,1410,Cash on Delivery
+ORD1450,2025-03-26,CUST903,Chennai,Fruits & Vegetables,Tomato,5,67,335,Wallet
+ORD1451,2025-03-27,CUST897,Hyderabad,Snacks & Beverages,Biscuits,1,169,169,Cash on Delivery
+ORD1452,2025-03-28,CUST801,Mumbai,Fruits & Vegetables,Onion,2,312,624,Wallet
+ORD1453,2025-03-29,CUST604,Bengaluru,Household Essentials,Soap,2,157,314,Debit Card
+ORD1454,2025-03-30,CUST406,Hyderabad,Dairy & Bakery,Milk,2,242,484,Debit Card
+ORD1455,2025-03-31,CUST740,Kolkata,Household Essentials,Detergent,3,148,444,Credit Card
+ORD1456,2025-04-01,CUST238,Delhi,Household Essentials,Floor Cleaner,5,120,600,Cash on Delivery
+ORD1457,2025-04-02,CUST923,Hyderabad,Snacks & Beverages,Chips,4,190,760,Wallet
+ORD1458,2025-04-03,CUST407,Mumbai,Snacks & Beverages,Biscuits,3,240,720,Wallet
+ORD1459,2025-04-04,CUST507,Mumbai,Snacks & Beverages,Tea,2,265,530,Debit Card
+ORD1460,2025-04-05,CUST485,Bengaluru,Snacks & Beverages,Juice,4,314,1256,Credit Card
+ORD1461,2025-04-06,CUST706,Mumbai,Snacks & Beverages,Biscuits,3,78,234,Wallet
+ORD1462,2025-04-07,CUST314,Kolkata,Personal Care,Body Lotion,5,33,165,Cash on Delivery
+ORD1463,2025-04-08,CUST611,Kolkata,Household Essentials,Toothpaste,1,439,439,Cash on Delivery
+ORD1464,2025-04-09,CUST533,Kolkata,Dairy & Bakery,Bread,2,149,298,Credit Card
+ORD1465,2025-04-10,CUST510,Chennai,Household Essentials,Detergent,4,326,1304,Cash on Delivery
+ORD1466,2025-04-11,CUST468,Pune,Personal Care,Deodorant,4,298,1192,UPI
+ORD1467,2025-04-12,CUST780,Kolkata,Personal Care,Deodorant,1,75,75,Credit Card
+ORD1468,2025-04-13,CUST793,Kolkata,Snacks & Beverages,Cold Drink,5,42,210,Wallet
+ORD1469,2025-04-14,CUST364,Delhi,Household Essentials,Toothpaste,4,74,296,UPI
+ORD1470,2025-04-15,CUST689,Kolkata,Dairy & Bakery,Curd,5,305,1525,Wallet
+ORD1471,2025-04-16,CUST795,Pune,Dairy & Bakery,Butter,3,220,660,Cash on Delivery
+ORD1472,2025-04-17,CUST207,Hyderabad,Personal Care,Deodorant,2,196,392,UPI
+ORD1473,2025-04-18,CUST419,Bengaluru,Snacks & Beverages,Biscuits,1,79,79,Credit Card
+ORD1474,2025-04-19,CUST587,Bengaluru,Snacks & Beverages,Biscuits,2,286,572,Cash on Delivery
+ORD1475,2025-04-20,CUST145,Bengaluru,Fruits & Vegetables,Potato,4,183,732,UPI
+ORD1476,2025-04-21,CUST919,Kolkata,Fruits & Vegetables,Apple,3,351,1053,UPI
+ORD1477,2025-04-22,CUST438,Mumbai,Dairy & Bakery,Cheese,5,109,545,Wallet
+ORD1478,2025-04-23,CUST288,Kolkata,Personal Care,Toothbrush,4,138,552,Cash on Delivery
+ORD1479,2025-04-24,CUST560,Mumbai,Dairy & Bakery,Butter,4,34,136,Wallet
+ORD1480,2025-04-25,CUST385,Mumbai,Personal Care,Toothbrush,4,22,88,Credit Card
+ORD1481,2025-04-26,CUST474,Mumbai,Fruits & Vegetables,Onion,1,429,429,Wallet
+ORD1482,2025-04-27,CUST983,Kolkata,Snacks & Beverages,Cold Drink,4,78,312,Debit Card
+ORD1483,2025-04-28,CUST501,Chennai,Household Essentials,Floor Cleaner,3,325,975,Cash on Delivery
+ORD1484,2025-04-29,CUST276,Chennai,Personal Care,Face Wash,3,200,600,Cash on Delivery
+ORD1485,2025-04-30,CUST220,Bengaluru,Snacks & Beverages,Tea,5,63,315,Credit Card
+ORD1486,2025-05-01,CUST244,Kolkata,Dairy & Bakery,Bread,1,113,113,Debit Card
+ORD1487,2025-05-02,CUST492,Chennai,Personal Care,Toothbrush,4,325,1300,Credit Card
+ORD1488,2025-05-03,CUST760,Kolkata,Household Essentials,Soap,4,345,1380,Wallet
+ORD1489,2025-05-04,CUST291,Mumbai,Dairy & Bakery,Curd,2,270,540,Debit Card
+ORD1490,2025-05-05,CUST596,Delhi,Snacks & Beverages,Biscuits,5,47,235,Debit Card
+ORD1491,2025-05-06,CUST606,Kolkata,Dairy & Bakery,Cheese,4,307,1228,Wallet
+ORD1492,2025-05-07,CUST271,Hyderabad,Household Essentials,Shampoo,4,383,1532,Cash on Delivery
+ORD1493,2025-05-08,CUST133,Bengaluru,Fruits & Vegetables,Onion,1,427,427,Credit Card
+ORD1494,2025-05-09,CUST568,Pune,Snacks & Beverages,Cold Drink,5,167,835,Credit Card
+ORD1495,2025-05-10,CUST216,Chennai,Personal Care,Toothbrush,5,281,1405,UPI
+ORD1496,2025-05-11,CUST836,Pune,Snacks & Beverages,Tea,3,297,891,UPI
+ORD1497,2025-05-12,CUST949,Kolkata,Household Essentials,Floor Cleaner,2,237,474,UPI
+ORD1498,2025-05-13,CUST982,Bengaluru,Dairy & Bakery,Bread,1,250,250,Debit Card
+ORD1499,2025-05-14,CUST930,Mumbai,Fruits & Vegetables,Potato,1,417,417,Credit Card
